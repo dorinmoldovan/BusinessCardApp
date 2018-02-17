@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">BusinessCardApp</string>
+    <string name="app_name">TUCN</string>
+    <string name="address">28 Memorandumului Street, Cluj-Napoca, 400114, Romania</string>
+    <string name="phone">0264 401200</string>
+    <string name="description">The Technical University of Cluj-Napoca is a public university located in Cluj-Napoca, Romania.</string>
 </resources>
